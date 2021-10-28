@@ -1,0 +1,38 @@
+PLINK v1.90b6.16 64-bit (19 Feb 2020)
+Options in effect:
+  --allow-extra-chr
+  --allow-no-sex
+  --chr-set 8 no-y no-xy no-mt
+  --double-id
+  --make-bed
+  --mind 0.2
+  --out pca_missense
+  --pca
+  --set-missing-var-ids @:#
+  --vcf /scratch/mac9jc/genome_analysis_project/results/snps_updated_chrom_annotated_missense.vcf
+
+Hostname: udc-ba25-16
+Working directory: /sfs/qumulo/qhome/mac9jc/cparvum_genomes/pca_results
+Start time: Mon Sep  6 14:38:07 2021
+
+Random number seed: 1630953487
+1031988 MB RAM detected; reserving 515994 MB for main workspace.
+--vcf: pca_missense-temporary.bed + pca_missense-temporary.bim +
+pca_missense-temporary.fam written.
+19282 variants loaded from .bim file.
+19282 missing IDs set.
+18 samples (0 males, 0 females, 18 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to pca_missense.nosex .
+0 samples removed due to missing genotype data (--mind).
+Using up to 15 threads (change this with --threads).
+Before main variant filters, 18 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.983574.
+19282 variants and 18 samples pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+Warning: calculating 18 PCs, since there are only 18 samples.
+--pca: Results saved to pca_missense.eigenval and pca_missense.eigenvec .
+--make-bed to pca_missense.bed + pca_missense.bim + pca_missense.fam ... done.
+
+End time: Mon Sep  6 14:38:07 2021

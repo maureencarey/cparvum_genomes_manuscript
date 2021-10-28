@@ -1,0 +1,17 @@
+9102324 8 11
+0 CM000429 | organism=Cryptosporidium_parvum_Iowa_II | version=2007-02-26 | length=875659 | SO=chromosome
+0 875659 1
+0 CM000430 | organism=Cryptosporidium_parvum_Iowa_II | version=2007-02-26 | length=985969 | SO=chromosome
+875659 985969 92
+0 CM000431 | organism=Cryptosporidium_parvum_Iowa_II | version=2007-02-26 | length=1099352 | SO=chromosome
+1861628 1099352 406
+0 CM000432 | organism=Cryptosporidium_parvum_Iowa_II | version=2007-02-26 | length=1104417 | SO=chromosome
+2960980 1104417 59
+0 CM000433 | organism=Cryptosporidium_parvum_Iowa_II | version=2007-02-26 | length=1080900 | SO=chromosome
+4065397 1080900 480
+0 CM000434 | organism=Cryptosporidium_parvum_Iowa_II | version=2007-02-26 | length=1332857 | SO=chromosome
+5146297 1332857 849
+0 CM000435 | organism=Cryptosporidium_parvum_Iowa_II | version=2007-02-26 | length=1278458 | SO=chromosome
+6479154 1278458 10
+0 CM000436 | organism=Cryptosporidium_parvum_Iowa_II | version=2007-02-26 | length=1344712 | SO=chromosome
+7757612 1344712 193

@@ -1,0 +1,37 @@
+PLINK v1.90b6.16 64-bit (19 Feb 2020)
+Options in effect:
+  --allow-extra-chr
+  --allow-no-sex
+  --chr-set 8 no-y no-xy no-mt
+  --double-id
+  --make-bed
+  --mind 0.2
+  --out pca
+  --pca
+  --set-missing-var-ids @:#
+  --vcf /scratch/mac9jc/genome_analysis_project/results/all_ld_filtered_removed.vcf.gz
+
+Hostname: udc-ba25-16
+Working directory: /sfs/qumulo/qhome/mac9jc/cparvum_genomes
+Start time: Mon Sep  6 14:35:23 2021
+
+Random number seed: 1630953323
+1031988 MB RAM detected; reserving 515994 MB for main workspace.
+--vcf: pca-temporary.bed + pca-temporary.bim + pca-temporary.fam written.
+60875 variants loaded from .bim file.
+60875 missing IDs set.
+18 samples (0 males, 0 females, 18 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to pca.nosex .
+0 samples removed due to missing genotype data (--mind).
+Using up to 15 threads (change this with --threads).
+Before main variant filters, 18 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.969982.
+60875 variants and 18 samples pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+Warning: calculating 18 PCs, since there are only 18 samples.
+--pca: Results saved to pca.eigenval and pca.eigenvec .
+--make-bed to pca.bed + pca.bim + pca.fam ... done.
+
+End time: Mon Sep  6 14:35:24 2021

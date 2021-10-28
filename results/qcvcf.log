@@ -1,0 +1,29 @@
+PLINK v1.90b6.16 64-bit (19 Feb 2020)
+Options in effect:
+  --allow-extra-chr
+  --bfile /scratch/mac9jc/genome_analysis_project/results/genotypes_read
+  --mind 0.2
+  --out qcvcf
+  --pca 10
+
+Hostname: udc-ba25-15
+Working directory: /sfs/qumulo/qhome/mac9jc/cparvum_genomes
+Start time: Thu Jul  1 14:37:10 2021
+
+Random number seed: 1625164630
+1031988 MB RAM detected; reserving 515994 MB for main workspace.
+19402 variants loaded from .bim file.
+18 people (0 males, 0 females, 18 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to qcvcf.nosex .
+1 person removed due to missing genotype data (--mind).
+ID written to qcvcf.irem .
+Using up to 15 threads (change this with --threads).
+Before main variant filters, 17 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.959625.
+19402 variants and 17 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to qcvcf.eigenval and qcvcf.eigenvec .
+
+End time: Thu Jul  1 14:37:10 2021
